@@ -1,0 +1,102 @@
+[
+	{
+        "id": 6571507,
+        "name": "Samjeon-dong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.090561,
+            "lat": 37.501671
+        }
+    },
+    {
+        "id": 6573030,
+        "name": "Namhyang-dong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.021393,
+            "lat": 37.283611
+        }
+    },
+    {
+        "id": 6573457,
+        "name": "Wonteo",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.056107,
+            "lat": 37.443329
+        }
+    },
+    {
+        "id": 6573747,
+        "name": "Dongjinwon",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.145828,
+            "lat": 37.282501
+        }
+    },
+    {
+        "id": 6575423,
+        "name": "Haejeong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.024437,
+            "lat": 37.096111
+        }
+    },
+    {
+        "id": 6575822,
+        "name": "Sangdeok",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.17028,
+            "lat": 37.212219
+        }
+    },
+    {
+        "id": 6575866,
+        "name": "Samga-dong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.159439,
+            "lat": 37.238892
+        }
+    },
+    {
+        "id": 6575883,
+        "name": "Seryui-dong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.008888,
+            "lat": 37.244438
+        }
+    },
+    {
+        "id": 6575891,
+        "name": "Yeongtongi-dong",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.06472,
+            "lat": 37.251389
+        }
+    },
+    {
+        "id": 6576320,
+        "name": "Subu-mal",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.53167,
+            "lat": 37.40139
+        }
+    }
+]
